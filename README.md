@@ -1,4 +1,6 @@
-PhD, researcher at Antiplagiat,
+PhD, research engineer at Skoltech,
+
+researcher at Antiplagiat,
 
 lecturer at Moscow Institute of Physics and Technology,
 
