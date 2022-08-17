@@ -1,4 +1,4 @@
-PhD, research engineer at Skoltech,
+PhD, research engineer at SK,
 
 researcher at Antiplagiat,
 
