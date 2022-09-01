@@ -2,7 +2,7 @@ PhD, research engineer at SK,
 
 researcher at Antiplagiat,
 
-lecturer at Phystech,
+ex-lecturer at Phystech,
 
 research associate at Dorodnicyn Computing Center, Federal Research Center "Computer Science and Control" of the Russian Academy of Sciences.
 
