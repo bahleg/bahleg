@@ -1,10 +1,4 @@
-PhD, research engineer at SK,
-
-researcher at Antiplagiat,
-
-ex-lecturer at Phystech,
-
-research associate at Dorodnicyn Computing Center, Federal Research Center "Computer Science and Control" of the Russian Academy of Sciences.
+PhD.
 
 Research interests: model selection, deep learning, neural networks, Bayesian inference, natural language processing.
 
